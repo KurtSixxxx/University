@@ -1,0 +1,20 @@
+# File temporanei LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# File di backup
+*~
+*.bak
+
+# Cartelle di output
+_build/
+output/
